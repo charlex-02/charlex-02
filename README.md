@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlex-02
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me obanimaccharles85@gmail.com
 
